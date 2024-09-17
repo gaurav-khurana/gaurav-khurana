@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-khurana" alt="gaurav-khurana" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS, React testing library, Wordpress**
+- 🌱 I’m currently learning **MongoDB, GraphQL, Unit testing**
 
 - 💬 Ask me about **React, JavaScript, TypeScript, Express, Node, Nextjs**
 
